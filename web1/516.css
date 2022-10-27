@@ -1,0 +1,19 @@
+h2{
+  color: green;
+  text-decoration: underline;
+}
+.홀수{
+  color: red;
+}
+#번째{
+  color: grey;
+}
+a{
+  text-decoration: none;
+  color: orange;
+}
+#조정{
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 3px;
+}

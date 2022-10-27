@@ -1,0 +1,14 @@
+h2{
+  font-family: 'Sunflower', sans-serif;
+}
+p{
+  font-family: 'Roboto Mono', monospace;
+}
+#change{
+  border-bottom: solid 2px red;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+#비교{
+  border: solid 2px red;
+}

@@ -1,0 +1,21 @@
+h2{
+  color: blue;
+}
+body{
+  font-family: 'Nanum Myeongjo', serif;
+}
+.english{
+  font-family: 'Lateef', cursive;
+}
+.ex{
+  margin-top: 20px;
+  padding-left: 100px;
+  border-right: 5px solid red;
+  background-color: green;
+}
+#inline{
+  border: 2px solid red;
+}
+#block{
+  border: 2px solid red;
+}
